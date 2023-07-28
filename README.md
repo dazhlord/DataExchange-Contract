@@ -37,7 +37,7 @@ Not released, work in progress.
 
 Follow the instructions as given below:
 
-1. Run `git clone git@github.com:decentralised-dataexchange/dexa-smartcontracts.git` to clone the repository.
+1. Run `git clone git@github.com:dazhlord/DataExchange-Contract.git` to clone the repository.
 2. `cd dexa-smartcontracts` in to the cloned folder
 3. Run `poetry shell` to setup a python virtual environment.
 4. Run `poetry install` to install the dependencies.
