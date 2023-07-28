@@ -3,12 +3,6 @@
 </h1>
 
 <p align="center">
-    <a href="/../../commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/decentralised-dataexchange/dexa-smartcontracts?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img src="https://img.shields.io/github/issues/decentralised-dataexchange/dexa-smartcontracts?style=flat"></a>
-    <a href="./LICENSE" title="License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat"></a>
-</p>
-
-<p align="center">
   <a href="#about">About</a> •
   <a href="#release-status">Release Status</a> •
   <a href="#contributing">Contributing</a> •
@@ -52,12 +46,12 @@ Follow the instructions as given below:
 
 Follow the instructions as given below:
 
-1. Run `git clone git@github.com:decentralised-dataexchange/dexa-smartcontracts.git` to clone the repository.
+1. Run `git clone git@github.com:dazhlord/DataExchange-Contract.git` to clone the repository.
 2. `cd dexa-smartcontracts` in to the cloned folder
 3. Run the below command to build the docker image.
 
 ```bash
-$ docker build -t igrantio/dexa-smartcontracts:0.1.0 -f docker/Dockerfile .
+$ docker build -t igrantio/DataExchange-Contract:0.1.0 -f docker/Dockerfile .
 ```
 
 4. Run the below command to compile and deploy the smart contract
